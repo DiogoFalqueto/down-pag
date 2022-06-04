@@ -4,9 +4,9 @@
 
 <h2>Instalação</h2>
 <p>Execute:</p>
-<code>npm i download-html-pag</code>
+<code>npm i down-pag</code>
 <p>ou</p>
-<code>npm i https://github.com/DiogoFalqueto/download-html-pag</code>
+<code>npm i https://github.com/DiogoFalqueto/down-pag</code>
 <h2>Utilização</h2>
 
 <pre>
