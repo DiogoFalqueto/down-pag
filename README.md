@@ -8,8 +8,9 @@
 <p>ou</p>
 <code>npm i https://github.com/DiogoFalqueto/download-html-pag</code>
 <h2>Utilização</h2>
-<code>
+
 <pre>
+<code>
 const downloadHtmlPag = require("download-html-pag")
 const nameFile = "google.html"
 const url = "https://www.google.com"
@@ -19,5 +20,5 @@ const download = downloadHtmlPag.download(nameFile, url)
 download.then(function(){
 	console.log("Download file!")
 })
-</pre>
 </code>
+</pre>
