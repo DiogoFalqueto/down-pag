@@ -11,7 +11,7 @@
 
 <pre>
 <code>
-const downloadHtmlPag = require("download-html-pag")
+const downloadHtmlPag = require("down-pag")
 const nameFile = "google.html"
 const url = "https://www.google.com"
 
